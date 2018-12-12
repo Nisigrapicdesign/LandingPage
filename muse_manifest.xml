@@ -1,0 +1,247 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nisigraphicdesign.tk" resolutions="1x" timestamp="1544586199447">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="32680291" ref="index:feed-instagram"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3874544771" ref="index:feed-instagram"/>
+    <file name="index.css" crc="323274675" ref="index"/>
+    <file name="nomq_index.css" crc="3885168103" ref="index"/>
+    <file name="feed-instagram.css" crc="38025352" ref="feed-instagram"/>
+    <file name="nomq_feed-instagram.css" crc="4221279037" ref="feed-instagram"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:feed-instagram"/>
+    <file name="museutils.js" crc="3803043152" ref="index:feed-instagram"/>
+    <file name="whatinput.js" crc="86476730" ref="index:feed-instagram"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:feed-instagram"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:feed-instagram"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:feed-instagram"/>
+    <file name="webpro.js" crc="242022427" ref="index:feed-instagram"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:feed-instagram"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:feed-instagram"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:feed-instagram"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:feed-instagram"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:feed-instagram"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:feed-instagram"/>
+    <file name="require.js" crc="4157109226" ref="index:feed-instagram"/>
+  </folder>
+  <folder name="images">
+    <file name="sin-título-1.png" crc="4272926607" seo="true" ref="index:feed-instagram">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+    </file>
+    <file name="linea_colorida_impresion_de_la_lona_del_modelo-r07fb51ed87e34074bb4dabcdbd16c1dd_nfnr_8byvr_307.png" crc="3992323515" seo="true" ref="index:feed-instagram">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+    </file>
+    <file name="kisspng-watercolor-painting-stock-photography-splash-color-splash-5b1679ddc76ed77449048015281996458169.png" crc="83581790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog6.jpg" crc="224857285" seo="true" ref="index:feed-instagram">
+      <caption webpage="index" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:feed-instagram"/>
+    <file name="carrrtt.jpg" crc="3834496468" seo="true" ref="index:feed-instagram">
+      <caption webpage="index" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+    </file>
+    <file name="foll.jpg" crc="479485172" seo="true" ref="index:feed-instagram">
+      <caption webpage="index" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+    </file>
+    <file name="sitio.jpg" crc="3806413205" seo="true" ref="index:feed-instagram">
+      <caption webpage="index" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+    </file>
+    <file name="redes.jpg" crc="4061099715" seo="true" ref="index:feed-instagram">
+      <caption webpage="index" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:feed-instagram"/>
+    <file name="10047.png" crc="375394747" seo="true" ref="index:feed-instagram">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+    </file>
+    <file name="instagram.png" crc="3843162062" seo="true" ref="index:feed-instagram">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+    </file>
+    <file name="33447.png" crc="4287814813" seo="true" ref="index:feed-instagram">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+    </file>
+    <file name="pagina1.jpg" crc="401831375" ref="index:feed-instagram">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+      <caption webpage="feed-instagram" alt=""/>
+    </file>
+    <file name="blog61005x367.jpg" crc="3796022023" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carrrtt1005x367.jpg" crc="4114220190" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foll1005x367.jpg" crc="4092269499" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sitio1005x367.jpg" crc="67595166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redes1005x367.jpg" crc="308306357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kisspng-watercolor-painting-stock-photography-splash-color-splash-5b1679ddc76ed77449048015281996458169671x373.png" crc="4179165967" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kisspng-watercolor-painting-stock-photography-splash-color-splash-5b1679ddc76ed77449048015281996458169626x348.png" crc="3847370946" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kisspng-watercolor-painting-stock-photography-splash-color-splash-5b1679ddc76ed77449048015281996458169601x334.png" crc="3965009883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kisspng-watercolor-painting-stock-photography-splash-color-splash-5b1679ddc76ed77449048015281996458169614x342.png" crc="351848352" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog6800x292.jpg" crc="450210480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carrrtt800x292.jpg" crc="405008908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foll800x292.jpg" crc="445905295" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sitio800x292.jpg" crc="438663010" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redes800x292.jpg" crc="401237913" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kisspng-watercolor-painting-stock-photography-splash-color-splash-5b1679ddc76ed77449048015281996458169534x297.png" crc="4001705060" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina11600x900.jpg" crc="271423267" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kisspng-watercolor-painting-stock-photography-splash-color-splash-5b1679ddc76ed77449048015281996458169463x258.png" crc="4081403776" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kisspng-watercolor-painting-stock-photography-splash-color-splash-5b1679ddc76ed77449048015281996458169403x224.png" crc="474905268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina11206x678.jpg" crc="242057729" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kisspng-watercolor-painting-stock-photography-splash-color-splash-5b1679ddc76ed77449048015281996458169463x257.png" crc="75938694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog6602x220.jpg" crc="359942412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carrrtt602x220.jpg" crc="3934915157" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foll602x220.jpg" crc="3947514548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sitio602x220.jpg" crc="119622703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redes602x220.jpg" crc="441926372" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kisspng-watercolor-painting-stock-photography-splash-color-splash-5b1679ddc76ed77449048015281996458169402x224.png" crc="292757253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina11204x677.jpg" crc="4038816533" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="500522852" seo="true" mt="1544585962289" redirect="true"/>
+  <file name="feed-instagram.html" crc="527113221" seo="true" mt="1544585962289" redirect="true"/>
+</manifest>
